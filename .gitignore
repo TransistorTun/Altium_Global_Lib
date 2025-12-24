@@ -1,28 +1,27 @@
 # Altium Designer .gitignore
 
-# Thư mục lịch sử và log (Rất quan trọng phải ignore)
 History/
 __Previews/
 Project Logs/
 Project Outputs/
 
-# Các file khóa tạm thời (Lock files)
-# Nếu up file này lên, người khác mở sẽ bị báo "File is locked by [User]"
+# Lock files
+# If you upload this file -> "File is locked by [User]"
 .~*
 *.htm
 *.html
 
-# Các file Backup tự động
+# Auto Backup Files
 *.SchDoc.Zip
 *.PcbDoc.Zip
 *.LibPkg.Zip
 *.PrjPcb.Zip
 
-# Các file cấu hình cục bộ của máy bạn (người khác không cần)
+# Local Structure files
 *.PrjPcbStructure
 *.DsnWrk
 *.DsnWrk.Zip
 
-# Các file Log rác
+# Trash log
 *.LOG
 *.log
