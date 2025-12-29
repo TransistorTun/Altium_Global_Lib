@@ -186,6 +186,23 @@ GenerateClassCluster=0
 DocumentUniqueId=CBOFVTKH
 
 [Document9]
+DocumentPath=..\SchLib\FUSE.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GYSYZFWJ
+
+[Document10]
 DocumentPath=..\SchLib\IC_MC_MCU_USB3300-EZK.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RQDUQKBH
 
-[Document10]
+[Document11]
 DocumentPath=..\SchLib\IC_MC_MCU_USB2514BM2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYOZPZSU
 
-[Document11]
+[Document12]
 DocumentPath=..\SchLib\IC_ST_MCU_STM32H753ZIT6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IEOFBKNV
 
-[Document12]
+[Document13]
+DocumentPath=..\SchLib\IC_PWR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CEGJZGKS
+
+[Document14]
 DocumentPath=..\SchLib\IC_TI_PHY_DP83848MPHPREP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EDQNESUD
 
-[Document13]
+[Document15]
 DocumentPath=..\SchLib\INDUCTOR_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EFCNNRVD
 
-[Document14]
+[Document16]
 DocumentPath=..\SchLib\LED_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PKUFCFXC
 
-[Document15]
+[Document17]
 DocumentPath=..\SchLib\RES_0201.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTBKCRQL
 
-[Document16]
+[Document18]
 DocumentPath=..\SchLib\RES_0402.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QBRRHEFJ
 
-[Document17]
+[Document19]
 DocumentPath=..\SchLib\RES_0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOCZEINH
 
-[Document18]
+[Document20]
 DocumentPath=..\SchLib\RES_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INTJZEIQ
 
-[Document19]
+[Document21]
 DocumentPath=..\SchLib\RES_1206.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVGVEDFG
 
-[Document20]
+[Document22]
 DocumentPath=..\SchLib\TEST_POINT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHVXWUFI
 
-[Document21]
+[Document23]
 DocumentPath=..\PCBLib\TUNA_Altium_Lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNKVUCVH
 
-[Document22]
+[Document24]
 DocumentPath=..\PCBLib\TUNA_AL-CAP_Lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJKMNJLO
 
-[Document23]
+[Document25]
 DocumentPath=..\PCBLib\TUNA_TAN-CAP_Lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
